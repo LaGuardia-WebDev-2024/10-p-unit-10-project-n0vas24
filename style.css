@@ -1,11 +1,11 @@
 body {
-  background-color: black;
+  background-color: lightblue;
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 
   margin-top: 10%;
-  font-family: Georgia, serif;
+  font-family: TimesNewRoman, serif;
 }
 
 html{
@@ -20,7 +20,7 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: aliceblue;
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
